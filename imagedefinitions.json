@@ -1,0 +1,7 @@
+[
+    {
+        "name": "helloworld-container-Studio",
+        "imageUri": "043114856429.dkr.ecr.eu-west-2.amazonaws.com/demo:latest"
+        "imageUri": "https://codedeploy-install.s3.amazonaws.com/Capture.JPG"
+    }
+]
